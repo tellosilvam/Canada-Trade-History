@@ -5,25 +5,22 @@ This project provides a **comprehensive analysis of Canada's foreign trade histo
 
 To enhance understanding, the project features **interactive visualizations** created with **Jupyter Notebook (Plotly) and Tableau**. These visual tools allow users to explore trade trends dynamically, making complex trade data more accessible. The combination of Python-based analytics and a Tableau dashboard provides a well-rounded perspective on trade flows, helping researchers, policymakers, and business professionals gain actionable insights. 🚀  
 
-🚀 **View the Notebook on nbviewer:**  
-<br>[![nbviewer](https://img.shields.io/badge/Open%20in-nbviewer-orange?logo=Jupyter)](https://nbviewer.org/github/tellosilvam/Canada-Trade-History/blob/886e6a42419fab197f2c3f829fcede1b5ff60325/CanadaTrade.ipynb)
-
-📊 **Explore the Interactive Tableau Dashboard:**
-<br>[![Tableau](https://img.shields.io/badge/View%20on-Tableau-blue?logo=Tableau)]([https://public.tableau.com/views/YourDashboardName](https://public.tableau.com/views/CanadaTrade/FTADashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
-
 ---
 
 ## 📌 Features
-- 📈 **Jupyter Notebook Analysis**  
+### 📈 **Jupyter Notebook Analysis**
+[![nbviewer](https://img.shields.io/badge/Open%20in-nbviewer-orange?logo=Jupyter)](https://nbviewer.org/github/tellosilvam/Canada-Trade-History/blob/886e6a42419fab197f2c3f829fcede1b5ff60325/CanadaTrade.ipynb)
   - Import & Export trends (since 1988)  
   - Free Trade Agreements (FTA) & Country analysis  
   - Interactive **Plotly** visualizations
   - FTA & Country **Clustering**
   - SARIMA **Forecast** for Exports  
 
-- 📊 **Tableau Dashboard**  
+### 📊 **Tableau Dashboard**
+[![Tableau](https://img.shields.io/badge/View%20on-Tableau-blue?logo=Tableau)]([https://public.tableau.com/views/YourDashboardName](https://public.tableau.com/views/CanadaTrade/FTADashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
   - Dynamic filters for exploring trade data  
-  - Comparative analysis of trade partners and countries  
+  - Comparative analysis of trade partners and countries
+  - **Surplus/Deficit** per country interactive map
 
 ---
 
