@@ -5,7 +5,7 @@ This project provides a **comprehensive analysis of Canada's foreign trade histo
 
 To enhance understanding, the project features **interactive visualizations** created with **Jupyter Notebook (Plotly) and Tableau**. These visual tools allow users to explore trade trends dynamically, making complex trade data more accessible. The combination of Python-based analytics and a Tableau dashboard provides a well-rounded perspective on trade flows, helping researchers, policymakers, and business professionals gain actionable insights. 🚀  
 
----
+![Thumb](trade.jpeg)
 
 ## 📌 Features
 ### 📈 **Jupyter Notebook Analysis**
