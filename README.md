@@ -1,9 +1,9 @@
 # 📊🇨🇦 Canadian Foreign Trade History
 
 ## 🌎 Overview  
-This project provides a **comprehensive analysis of Canada's foreign trade history**, focusing on **import and export trends** across various **Free Trade Agreements (FTAs)** and individual countries. By leveraging two key datasets—one detailing trade activities under FTAs and another capturing trade volumes by country—this analysis uncovers patterns in Canada's global commerce. Through data exploration, we assess how trade agreements influence economic relationships and identify key trading partners driving Canada's international trade.
+This project provides a **comprehensive analysis of Canada's foreign trade history**, focusing on **import and export trends** across various **Free Trade Agreements (FTAs)** and individual countries. This analysis uncovers patterns in Canada's global commerce by leveraging two key datasets—one detailing trade activities under FTAs and another capturing trade volumes by country. Through data exploration, we assess how trade agreements influence economic relationships and identify key trading partners driving Canada's international trade.
 
-To enhance understanding, the project features **interactive visualizations** created with **Jupyter Notebook (Plotly) and Tableau**. These visual tools allow users to explore trade trends dynamically, making complex trade data more accessible. Python-based analytics and a Tableau dashboard provide a well-rounded perspective on trade flows, helping researchers, policymakers, and business professionals gain actionable insights. 🚀
+The project features **interactive visualizations** created with **Jupyter Notebook (Plotly) and Tableau**to enhance understanding. These visual tools allow users to explore trade trends dynamically, making complex trade data more accessible. Python-based analytics and a Tableau dashboard provide a well-rounded perspective on trade flows, helping researchers, policymakers, and business professionals gain actionable insights. 🚀
 
 ![Thumb](trade.jpeg)
 
