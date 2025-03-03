@@ -9,7 +9,7 @@ To enhance understanding, the project features **interactive visualizations** cr
 
 ## 📌 Features
 ### 📈 **Jupyter Notebook Analysis**
-[![nbviewer](https://img.shields.io/badge/Open%20in-nbviewer-orange?logo=Jupyter)](https://nbviewer.org/github/tellosilvam/Canada-Trade-History/blob/886e6a42419fab197f2c3f829fcede1b5ff60325/CanadaTrade.ipynb)
+[![nbviewer](https://img.shields.io/badge/Open%20in-nbviewer-orange?logo=Jupyter)](https://nbviewer.org/github/tellosilvam/Canada-Trade-History/blob/main/CanadaTrade.ipynb)
   - Import & Export trends (since 1988)  
   - Free Trade Agreements (FTA) & Country analysis  
   - Interactive **Plotly** visualizations
