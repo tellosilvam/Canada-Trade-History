@@ -17,7 +17,7 @@ To enhance understanding, the project features **interactive visualizations** cr
   - SARIMA **Forecast** for Exports  
 
 ### 📊 **Tableau Dashboard**
-[![Tableau](https://img.shields.io/badge/View%20on-Tableau-blue?logo=Tableau)]((https://public.tableau.com/views/CanadaTrade/FTADashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+[![Tableau](https://img.shields.io/badge/View%20on-Tableau-blue?logo=Tableau)](https://public.tableau.com/views/CanadaTrade/FTADashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
   - Dynamic filters for exploring trade data  
   - Comparative analysis of trade partners and countries
   - **Surplus/Deficit** per country interactive map
